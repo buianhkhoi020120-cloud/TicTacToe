@@ -7,4 +7,4 @@
 
 ## Video Demo
 
-![Demo](assets/tictactoe.gif)
+![Demo](asset/tictactoe.gif)
