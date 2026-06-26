@@ -1,3 +1,7 @@
+# Họ tên: Bùi Anh Khôi
+# MSSV: 24110258
+# Link Github: https://github.com/buianhkhoi020120-cloud/TicTacToe
+
 import tkinter as tk
 from tkinter import messagebox
 from algorithms import get_best_move, check_win, check_draw
